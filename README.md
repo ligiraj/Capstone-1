@@ -33,6 +33,13 @@ The highest median price of a house sold was $1,892,500 at zip code 98039 locati
 
   ![image](https://github.com/ligiraj/Capstone-1/assets/92734281/9c16e216-ffe4-4507-b49b-993751ecc85d)
 ## House price distribution by bedroom and square feet of living
+House prices increase when the number of bedrooms increases.
+
+The median price of one one-bedroom house is 0.3M, which increases to 0.67M when the bedroom number is five.
+![image](https://github.com/user-attachments/assets/9d2d35ec-b42c-491c-b4e0-75cf23c98df4)
+
+
+
 
 
   
