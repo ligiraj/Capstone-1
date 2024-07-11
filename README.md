@@ -25,13 +25,17 @@ Predict house price in Seattle, Washington,USA
 
 ## Map Visualization of King’s County Houses 
 
-The largest bubble shows the greatest median price of  a house compared to other zipcode.
+The largest bubble shows a house's median price compared to other zipcodes.
 
 The highest median price of a house sold was $1,892,500 at zip code 98039 location.
 
 
 
   ![image](https://github.com/ligiraj/Capstone-1/assets/92734281/9c16e216-ffe4-4507-b49b-993751ecc85d)
+## House price distribution by bedroom and square feet of living
+
+
+  
 
 
 
