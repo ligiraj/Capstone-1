@@ -43,6 +43,13 @@ House price  has a positive relation with square feet of living.
 The 1,190 square feet house has a price of $41,000 and the house price is increased to $635,000 when the square feet living is 3,110 ft.
 
 ![image](https://github.com/user-attachments/assets/c74a9986-8ae0-4afc-b7c3-7c940051370c)
+## Correlation Analysis
+![image](https://github.com/user-attachments/assets/71f93fcd-fe26-47be-bb0c-1b64b8b3f21d)
+There is a strong correlation between price and square feet of living, Price and latitude, price and grade of house, and price and bathrooms.
+
+The correlation between price and square feet of living is  0.5416, which indicates that they’re strongly, and positively correlated.
+
+
 
 
 
