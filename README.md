@@ -21,4 +21,10 @@ Predict house price in Seattle, Washington,USA
 
 ## Statistical approach to find the relationship between house price  to predictors  & predicting house price 
 
+![image](https://github.com/ligiraj/Capstone-1/assets/92734281/86d92543-4d29-4fbc-aacc-1d3f101efe8a)
+
+## Map Visualization of King’s County Houses 
+  ![image](https://github.com/ligiraj/Capstone-1/assets/92734281/9c16e216-ffe4-4507-b49b-993751ecc85d)
+
+
 
